@@ -4,14 +4,11 @@
 
 - Segurança da Informação
   - Teste de Penetração ~~Hackerman~~
-
 - Métodologias ágeis
   - DevSecOps
-
 - Containers
   - Disponibilidade
   - Segurança
-
 - Administração de sistemas
   - Linux
 
