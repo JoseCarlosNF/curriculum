@@ -1,4 +1,8 @@
 # Jose Carlos N F
+**Contatos:**
+- ✈ telegram: [@JoseCarlosNF](https://t.me/JoseCarlosNF)
+- 🐦 twitter: [@josecarlosnf_](https://twitter.com/josecarlosnf_)
+- 📫 email: [josecarlos.n.f99@gmail.com](malito:josecarlos.n.f99@gmail.com)
 
 ## Tópicos de Interesse:
 
